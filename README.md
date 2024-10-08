@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Developing fields (html, javascript, c#, css...)
 - 📫 How to reach me - you can contact me at my email: rm.af@hotmail.com
 - 😄 Pronouns: pronouns take the place of nouns
-- ⚡ Fun fact: i love cats!
+- ⚡ Fun fact: I really do love cats!
 
 <!---
 Rafa123F/Rafa123F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
